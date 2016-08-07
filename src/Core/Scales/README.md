@@ -2,10 +2,10 @@
 
 ## What should be in there ?
 
-Two folders: `learned` and `learning`.
+* Two folders: `learned` and `learning`.
 
 ## Next steps
 
 * Create folders
-* Conceive a workflow concept on how to define that a chord can be switched from `learning` to `learn`.
-* Define sub_folders structure (by root note ? by chord type ? by genre ?)
+* Conceive a workflow concept on how to define that a scale can be switched from `learning` to `learn`.
+* Define sub_folders structure (by root note ? by genre ?) (do some research)
