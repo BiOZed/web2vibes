@@ -2,7 +2,7 @@
 
 ## What should be in there ?
 
-* Musical projects that uses different parts defined in the src folder.
+* Musical projects that uses different parts defined in the `src` folder.
 
 ## Next steps
 
