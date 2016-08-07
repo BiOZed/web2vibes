@@ -2,7 +2,7 @@
 
 ## What should be in there ?
 
-* A list of musical concepts, separated in different folders.
+* A list of conceptual groups of musical concepts, separated in different folders.
 
 ## Next steps
 
