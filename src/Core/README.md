@@ -2,8 +2,8 @@
 
 ## What should be in there ?
 
-A list of folders describing core aspects of music.
+* A list of folders describing Core aspects of music.
 
 ## Next Steps
 
-Define core folders.
+* See `src` Next Steps
