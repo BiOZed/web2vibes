@@ -2,6 +2,9 @@
 
 The way music work.
 
+![alt text](https://github.com/https://github.com/BiOZed/web2vibes/tree/master/src/Core/MusicTheory/assets/images/music-theory.png)
+(from daveconservatoire.org https://www.youtube.com/watch?v=5Of7ccsPkmw)
+
 ## What should be in there ?
 * A list of conceptual groups of musical concepts, separated in different folders.
 * A list of resources about Music Theory in general.
