@@ -2,7 +2,7 @@
 
 The way music work.
 
-!(https://github.com/BiOZed/web2vibes/tree/master/src/Core/MusicTheory/assets/images/music-theory.png)
+![alt text](https://github.com/BiOZed/web2vibes/tree/master/src/Core/MusicTheory/assets/images/music-theory.png)
 (from daveconservatoire.org https://www.youtube.com/watch?v=5Of7ccsPkmw)
 
 ## What should be in there ?
