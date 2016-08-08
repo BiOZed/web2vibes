@@ -1,5 +1,7 @@
 # `src/Core/MusicTheory`
 
+The way music work.
+
 ## What should be in there ?
 * A list of conceptual groups of musical concepts, separated in different folders.
 * A list of resources about Music Theory in general.
