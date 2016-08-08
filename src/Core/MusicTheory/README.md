@@ -33,11 +33,6 @@ EarMaster is a software to practice Ear Training. Looks like they put a lot of e
 http://www.earmaster.com/music-theory-online/course-introduction.html
 Serious-looking, potentially detailed comprehensive textual course.
 
-#### Musical-U
-http://www.musical-u.com/blog/beginner-music-theory/
-Simple effective explanation of what the Core Concepts are (Musical alphabet, scales, chords, intervals)
-Too much "Ultimate flexibility – but with everything you need to actually succeed." bullshit on the rest of the domain.
-
 ### Music Theory for Musicians and Normal People 
 http://tobyrush.com/theorypages/
 Music theory explained with PDF & Cartoons.
