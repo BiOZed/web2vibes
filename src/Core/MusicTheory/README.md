@@ -22,6 +22,7 @@ The way music work.
 http://www.daveconservatoire.org/
 Free Online Music School.
 Lots of video resources (apparently).
+OK : Looks really amazing. Clear. Cool accent.
 
 ### Teoría
 http://teoria.com/
