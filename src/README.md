@@ -1,10 +1,6 @@
 # `src` folder
 
-## What should be in there ?
-
-* A list of conceptual groups of musical concepts, separated in different folders.
-
 ## Next steps
+* Keep on gaining knowledge on Music Theory
+* Structural change between Knowledge and Practice ?
 
-* Come up with a logical Hierarchical Structure for non-Core Musical concepts.
-* Think about other Core Musical Concepts (Find resource ?)
