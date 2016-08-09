@@ -8,3 +8,5 @@ From daveconservatoire.org
 * If we double the speed of vibration (or frequency) of a sound, the two pitches will sound similar and will blend together well. This special relationship is known as an octave.
 
 ![pitches graphic](https://raw.githubusercontent.com/BiOZed/web2vibes/master/static/images/pitches.png)
+
+http://tobyrush.com/theorypages/pdf/0102pitchnotation.pdf is a really great resource for understanding easily what a pitch is, and how it's noted on paper.
