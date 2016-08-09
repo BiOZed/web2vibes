@@ -26,11 +26,11 @@ OK : Looks really amazing. Clear. Cool accent.
 
 ### Teoría
 http://teoria.com/
-Encyclopedic.
+Encyclopedic. Mostly about Music Notation. Ear excercises too, but quite ugly interface.
 
 ### musictheory
 http://www.musictheory.net/lessons
-Simple but efficient. Visual animations + short sentences approach.
+Simple but efficient. Visual animations + short sentences approach. Music Notation orientated.
 
 ### EarMaster
 EarMaster is a software to practice Ear Training. Looks like they put a lot of effort into SEO, and created a lot of worth and less worth content.
