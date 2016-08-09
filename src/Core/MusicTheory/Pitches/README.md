@@ -10,3 +10,11 @@ From daveconservatoire.org
 ![pitches graphic](https://raw.githubusercontent.com/BiOZed/web2vibes/master/static/images/pitches.png)
 
 http://tobyrush.com/theorypages/pdf/0102pitchnotation.pdf is a really great resource for understanding easily what a pitch is, and how it's noted on paper.
+
+### Organisation on the piano
+Still from daveconservatoire.org : 
+
+![pitches on piano](https://raw.githubusercontent.com/BiOZed/web2vibes/master/static/images/pitches-on-piano.png)
+
+### Ear Training
+daveconservatoire has ear training module. Managed to spot if two notes where an octave away from each others + simple pitches differences (some troubles with bass notes).
