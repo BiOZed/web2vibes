@@ -18,3 +18,8 @@ Still from daveconservatoire.org :
 
 ### Ear Training
 daveconservatoire has ear training module. Managed to spot if two notes where an octave away from each others + simple pitches differences (some troubles with bass notes).
+
+## Questions
+* How did this naming system appeared ?
+* Why not having a single name for each note ?
+* Do-ré-mi VS C-D-E history ?
