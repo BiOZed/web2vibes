@@ -7,6 +7,11 @@ An attempt to apply Web Development tools and workflow to musical composition.
 * Following Modular and D.R.Y. approaches.
 
 ## Last Updates
+### August 9th 2016
+* Added PDF about pitch
+* Learned more about organisations of pitch on a keyboard.
+* Question about structure (Music Notation vs Music Theory)
+
 ### August 8th 2016
 * Re-organized Core folder
 * Added Music Theory Resources
