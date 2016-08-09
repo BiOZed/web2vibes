@@ -7,3 +7,4 @@
 ## Next Steps
 
 * Obviously think about what else there is to Music except Music Theory
+* Different folders for Music Theory & Music Notation ?
