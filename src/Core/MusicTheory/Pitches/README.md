@@ -20,6 +20,5 @@ Still from daveconservatoire.org :
 daveconservatoire has ear training module. Managed to spot if two notes where an octave away from each others + simple pitches differences (some troubles with bass notes).
 
 ## Questions
-* How did this naming system appeared ?
-* Why not having a single name for each note ?
-* Do-ré-mi VS C-D-E history ?
+* How did this naming system appeared ? Do-ré-mi VS C-D-E history ? --> https://fr.wikipedia.org/wiki/Histoire_de_la_notation_musicale
+* Why not having a single name for each note ? --> http://www.easyzic.com/dossiers/la-gamme-de-pythagore,h151.html?nocache=1471790429 (not read yet, would like to learn more about intervals)
