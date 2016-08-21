@@ -1,4 +1,4 @@
-# `src/Core/MusicTheory/Pitch`
+# `src/Core/MusicTheory/Pitches`
 
 ## Definition
 
@@ -15,6 +15,9 @@ http://tobyrush.com/theorypages/pdf/0102pitchnotation.pdf is a really great reso
 Still from daveconservatoire.org : 
 
 ![pitches on piano](https://raw.githubusercontent.com/BiOZed/web2vibes/master/static/images/pitches-on-piano.png)
+
+### Distance between notes
+* To measure these distances we can talk about tones and semitones. On a keyboard instrument like a piano or organ each of the keys is one semitone apart.
 
 ### Ear Training
 daveconservatoire has ear training module. Managed to spot if two notes where an octave away from each others + simple pitches differences (some troubles with bass notes).
