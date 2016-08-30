@@ -7,6 +7,10 @@ An attempt to apply Web Development tools and workflow to musical composition.
 * Following Modular and D.R.Y. approaches.
 
 ## Last Updates
+## August 30th 2016
+* Restructured src folder
+* Added Practice log
+
 ### August 9th 2016
 * Added PDF about pitch
 * Learned more about organisations of pitch on a keyboard.
