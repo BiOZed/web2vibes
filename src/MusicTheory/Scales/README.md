@@ -2,7 +2,7 @@
 
 ## Definition
 * A Scale is a collection of notes.
-* A Scale is defined by a root note (Key) and a collection of Tones and SemiTones.
+* A Scale is defined by a root note (Tonic) and a collection of Tones and SemiTones (Key Signature).
 
 ### Scale Degrees
 A Scale Degree is basically the note at a specific index of the scale.
