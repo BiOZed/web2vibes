@@ -8,6 +8,9 @@
 * Audio files ?
 
 ## Practice Log
+### September 6th 2016
+* Practiced arpegiated finger-picking on AMaj - BMaj - C#Min
+
 ### September 5th 2016
 * Practiced a lot of E Major Scale with 1st E open string.
 * Played a lot with the 6th Degree of the scale.
