@@ -1,2 +1,0 @@
-`src/Core/Notes/F#`
-
