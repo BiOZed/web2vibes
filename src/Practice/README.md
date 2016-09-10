@@ -8,13 +8,20 @@
 * Audio files ?
 
 ## Practice Log
+### September 8th 2016
+* Recorded pattern on B Natural Minor Scale, with lots of hammer on. https://raw.githubusercontent.com/BiOZed/web2vibes/master/static/audio/Practice/20160906--1.wav
+
 ### September 6th 2016
 * Practiced arpegiated finger-picking on AMaj - BMaj - C#Min
+* Recorded pattern on B Natural Minor Scale, with lots of hammer on. https://raw.githubusercontent.com/BiOZed/web2vibes/master/static/audio/Practice/20160906--1.wav
 
 ### September 5th 2016
 * Practiced a lot of E Major Scale with 1st E open string.
 * Played a lot with the 6th Degree of the scale.
 * Also practiced some rythmic on Bmin - A - E or a tone above. Tried different shapes to play it.
+
+### September 4th 2016
+* Found a recording from 4th September a week later... Needs fine-tuning. :
 
 ### September 1st 2016
 * Finger-picking pattern : [(3 - 12) * 4] https://raw.githubusercontent.com/BiOZed/web2vibes/master/static/audio/Practice/20160901--1.wav https://raw.githubusercontent.com/BiOZed/web2vibes/master/static/audio/Practice/20160901--2.wav
