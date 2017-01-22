@@ -1,4 +1,4 @@
-# `src/Core/Intervals`
+# `src/MusicTheory/Intervals`
 
 ## Definition
 * An interval is a special relationship between two notes.

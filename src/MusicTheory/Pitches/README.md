@@ -1,4 +1,4 @@
-# `src/Core/MusicTheory/Pitches`
+# `src/MusicTheory/Pitches`
 
 ## Definition
 

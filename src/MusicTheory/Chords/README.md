@@ -1,4 +1,4 @@
-# `src/Core/Scales`
+# `src/MusicTheory/Chords`
 
 ## What should be in there ?
 

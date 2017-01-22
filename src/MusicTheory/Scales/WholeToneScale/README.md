@@ -1,4 +1,4 @@
-# `src/Core/Scales/HarmonicMinorScale`
+# `src/MusicTheory/Scales/HarmonicMinorScale`
 
 ## Collection
 * R - T - T - T - T - T - T

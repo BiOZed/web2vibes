@@ -1,4 +1,4 @@
-# `src/Core/MusicTheory`
+# `src/MusicTheory`
 
 The way music work.
 

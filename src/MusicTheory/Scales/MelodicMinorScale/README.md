@@ -1,4 +1,4 @@
-# `src/Core/Scales/MelodicMinorScale`
+# `src/MusicTheory/Scales/MelodicMinorScale`
 
 ## Collection
 On the way up :

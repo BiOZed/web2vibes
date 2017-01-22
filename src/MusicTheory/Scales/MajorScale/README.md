@@ -1,4 +1,4 @@
-# `src/Core/Scales/MajorScale`
+# `src/MusicTheory/Scales/MajorScale`
 
 ## Collection
 * R - T - T - S - T - T - T - S

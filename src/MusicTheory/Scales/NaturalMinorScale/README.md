@@ -1,4 +1,4 @@
-# `src/Core/Scales/NaturalMinorScale`
+# `src/MusicTheory/Scales/NaturalMinorScale`
 
 ## Collection
 * R - T - S - T - T - S - T - T

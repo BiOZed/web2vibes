@@ -1,4 +1,4 @@
-# `src/Core/Scales`
+# `src/MusicTheory/Scales`
 
 ## Definition
 * A Scale is a collection of notes.
